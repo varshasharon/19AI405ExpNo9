@@ -25,7 +25,6 @@ It is assumed that there will always be a safe path that the agent can take to e
 <hr>
 
 <h2>Program</h2>
-
 ```python
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
